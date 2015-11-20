@@ -1,0 +1,2 @@
+The game will mimic the delightful original "pencil and paper game" and the first version will be written in JAVA.
+Application specs can be found on Wikipedia at http://en.wikipedia.org/wiki/Paper_Soccer.
